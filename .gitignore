@@ -1,0 +1,7 @@
+﻿/packages
+/ContentPackageRoot.Web/bin
+/ContentPackageRoot.Web/obj/Debug
+/ContentPackageRoot.Web/Umbraco
+/ContentPackageRoot/bin/Debug
+/ContentPackageRoot/obj/Debug
+/.vs/ContentPackageRoot
