@@ -43,5 +43,13 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Plugins\ContentPackageRoot\ContentPackageRoot.html" />
+    <Content Include="App_Plugins\ContentPackageRoot\css\ContentPackageRoot.css" />
+    <Content Include="App_Plugins\ContentPackageRoot\js\main.controller.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App_Plugins\ContentPackageRoot\package.manifest" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
