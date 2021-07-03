@@ -1,0 +1,19 @@
+﻿{
+    "propertyEditors": [
+        {
+            "alias": "ContentPackageRoot",
+            "name": "Content Package Root",
+            "editor": {
+                "view": "~/App_Plugins/ContentPackageRoot/ContentPackageRoot.html",
+                "hideLabel": true,
+                "valueType": "JSON"
+            }
+        }
+    ],
+    "javascript": [
+        "~/App_Plugins/ContentPackageRoot/app.controller.js"
+    ],
+    "css": [
+        "~/App_Plugins/ContentPackageRoot/css/ContentPackageRoot.css"
+    ]
+}

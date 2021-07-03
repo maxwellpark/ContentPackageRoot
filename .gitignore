@@ -5,3 +5,8 @@
 /ContentPackageRoot/bin/Debug
 /ContentPackageRoot/obj/Debug
 /.vs/ContentPackageRoot
+/ContentPackageRoot.Web/App_Data/Logs
+/ContentPackageRoot.Web/App_Data/packages
+/ContentPackageRoot.Web/App_Data/TEMP
+/ContentPackageRoot.Web/App_Plugins/OsmMaps
+/ContentPackageRoot.Web/Media/SK_Temp
