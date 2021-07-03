@@ -1,19 +1,21 @@
 ﻿{
     "propertyEditors": [
         {
-            "alias": "ContentPackageRoot",
-            "name": "Content Package Root",
+            "alias": "ActivityPicker",
+            "name": "Activity Picker",
             "editor": {
-                "view": "~/App_Plugins/ContentPackageRoot/ContentPackageRoot.html",
-                "hideLabel": true,
+                "view": "~/App_Plugins/ContentPackageRoot/ActivityPicker/ActivityPicker.html",
+                "hideLabel": false,
                 "valueType": "JSON"
             }
         }
     ],
     "javascript": [
-        "~/App_Plugins/ContentPackageRoot/app.controller.js"
+        "~/App_Plugins/ContentPackageRoot/ActivityPicker/ActivityPicker.controller.js",
+        "~/App_Plugins/ContentPackageRoot/main.controller.js"
     ],
     "css": [
-        "~/App_Plugins/ContentPackageRoot/css/ContentPackageRoot.css"
+        "~/App_Plugins/ContentPackageRoot/css/ContentPackageRoot.css",
+        "~/App_Plugins/ContentPackageRoot/ActivityPicker/ActivityPicker.css"
     ]
 }

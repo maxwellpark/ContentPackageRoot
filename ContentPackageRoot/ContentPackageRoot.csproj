@@ -44,6 +44,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Plugins\ContentPackageRoot\ActivityPicker\activity-picker.controller.js" />
+    <Content Include="App_Plugins\ContentPackageRoot\ActivityPicker\ActivityPicker.css" />
+    <Content Include="App_Plugins\ContentPackageRoot\ActivityPicker\ActivityPicker.html" />
     <Content Include="App_Plugins\ContentPackageRoot\ContentPackageRoot.html" />
     <Content Include="App_Plugins\ContentPackageRoot\css\ContentPackageRoot.css" />
     <Content Include="App_Plugins\ContentPackageRoot\js\main.controller.js" />
